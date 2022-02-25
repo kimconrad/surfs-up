@@ -28,8 +28,9 @@ The analysis will determine:
 # Project Results
 -- Analysis Output: 
 
-June has an average temperature of 77.2 deg, with a minimum of 71 deg and a maximum of 83 deg. December has an average temperature of 71.1 deg, with a minimum of 60 deg and a maximum of 78 deg. 
-These temperature ranges both support a sustainable business situation. Although the lowest temperature in December from this dataset is 60 deg, there are a relatively small number of days below 66 deg. This preliminary data points to the surf shop being a sustainable business, even through the winter months.
+June has an average temperature of 77.2 deg, with a minimum of 71 deg and a maximum of 83 deg. December has an average temperature of 71.1 deg, with a minimum of 60 deg and a maximum of 78 deg.
+ 
+These monthly temperature ranges both support a sustainable business model for the surf shop. Although the lowest temperature in December from this dataset is 60 deg, there are a relatively small number of days below 66 deg. This preliminary data points to the surf shop being a sustainable business, even through the cooler winter months.
 
 # Project Summary
 
