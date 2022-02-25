@@ -6,7 +6,7 @@ Analyzing weather data to determine year-round sustainability for surf shop busi
 
 ------------------------------
 # Overview of Project
-One sentence overview 
+Through an analysis of available temperature and weather data for the months of June and December, we will identify key differences between winter and summer to determine whether a year round business is sustainable. 
 
 ## Project Tasks
 The analysis will determine:
@@ -27,10 +27,17 @@ The analysis will determine:
 
 # Project Results
 -- Analysis Output: 
->
->
+
+June has an average temperature of 77.2 deg, with a minimum of 71 deg and a maximum of 83 deg. December has an average temperature of 71.1 deg, with a minimum of 60 deg and a maximum of 78 deg. 
+These temperature ranges both support a sustainable business situation. Although the lowest temperature in December from this dataset is 60 deg, there are a relatively small number of days below 66 deg. This preliminary data points to the surf shop being a sustainable business, even through the winter months.
 
 # Project Summary
 
-This analysis script can be easily expanded and adapted for further investigation. 
+This analysis script can be easily expanded and adapted for further investigation. Additional queries that could be helpful for supporting a sustainability decision: 
+-- Average daily precipitation totals for June and December
+-- Total number of days over a threshold average temperature over the span of a year (i.e. number of days with average temp above 65 deg). 
+
+
+
+
 
